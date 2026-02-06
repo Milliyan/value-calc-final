@@ -212,12 +212,4 @@ export default function WebsiteValueCalculator() {
     </div>
   );
 }
-import WebsiteValueCalculator from './WebsiteValueCalculator';
 
-export default function Home() {
-  return (
-    <main>
-      <WebsiteValueCalculator />
-    </main>
-  );
-}
